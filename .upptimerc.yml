@@ -9,6 +9,7 @@ sites:
   - name: Game Server
     check: "tcp-ping"
     url: $GAME_SERVER_IP
+    port: 80
   - name: Client_01
     url: $CLIENT_01
   - name: Client_02
