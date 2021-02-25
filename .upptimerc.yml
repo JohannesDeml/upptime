@@ -8,6 +8,10 @@ sites:
     url: https://deml.io
   - name: Game Server
     url: $GAME_SERVER_IP
+  - name: Client_01
+    url: $CLIENT_01
+  - name: Client_02
+    url: $CLIENT_02
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
@@ -16,8 +20,8 @@ status-website:
   # baseUrl: /upptime
   logoUrl: https://deml.io/public/logo_min.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: Tracks the status of some of my websites with **real-time** data from [GitHub repository](https://github.com/johannesdeml/upptime). [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**Upptime** is an open-source uptime monitor and status page, powered entirely by GitHub."
+  introMessage: This website tracks the status of some of my websites with **real-time** data through [GitHub](https://github.com/johannesdeml/upptime).
   navbar:
     - title: Status
       href: /
