@@ -7,6 +7,7 @@ sites:
   - name: deml.io
     url: https://deml.io
   - name: Game Server
+    check: "tcp-ping"
     url: $GAME_SERVER_IP
   - name: Client_01
     url: $CLIENT_01
