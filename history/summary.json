@@ -58,17 +58,17 @@
     "url": "$CLIENT_02",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "client-02",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2016,
-    "timeDay": 1902,
-    "timeWeek": 2032,
-    "timeMonth": 2014,
-    "timeYear": 2016,
+    "time": 2015,
+    "timeDay": 1874,
+    "timeWeek": 2005,
+    "timeMonth": 2008,
+    "timeYear": 2015,
     "dailyMinutesDown": {}
   }
 ]
