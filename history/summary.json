@@ -4,7 +4,7 @@
     "url": "https://deml.io",
     "icon": "https://favicons.githubusercontent.com/deml.io",
     "slug": "deml-io",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -12,8 +12,8 @@
     "uptimeYear": "100.00%",
     "time": 616,
     "timeDay": 768,
-    "timeWeek": 641,
-    "timeMonth": 647,
+    "timeWeek": 659,
+    "timeMonth": 644,
     "timeYear": 587,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 103,
-    "timeDay": 121,
+    "timeDay": 107,
     "timeWeek": 106,
-    "timeMonth": 110,
+    "timeMonth": 109,
     "timeYear": 104,
     "dailyMinutesDown": {}
   },
@@ -47,8 +47,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 543,
-    "timeDay": 628,
-    "timeWeek": 525,
+    "timeDay": 635,
+    "timeWeek": 551,
     "timeMonth": 533,
     "timeYear": 499,
     "dailyMinutesDown": {}
@@ -65,10 +65,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2189,
-    "timeDay": 2151,
-    "timeWeek": 2206,
-    "timeMonth": 2175,
-    "timeYear": 2238,
+    "timeDay": 2118,
+    "timeWeek": 2230,
+    "timeMonth": 2168,
+    "timeYear": 2236,
     "dailyMinutesDown": {}
   }
 ]
