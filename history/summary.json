@@ -58,17 +58,17 @@
     "url": "$CLIENT_02",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "client-02",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2741,
-    "timeDay": 2065,
-    "timeWeek": 1822,
-    "timeMonth": 2516,
-    "timeYear": 2872,
+    "time": 2705,
+    "timeDay": 1769,
+    "timeWeek": 1777,
+    "timeMonth": 2490,
+    "timeYear": 2868,
     "dailyMinutesDown": {}
   }
 ]
