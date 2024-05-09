@@ -1,7 +1,7 @@
 url: $CLIENT_02
-status: up
-code: 200
-responseTime: 2500
-lastUpdated: 2024-05-09T23:02:52.063Z
+status: down
+code: 403
+responseTime: 869
+lastUpdated: 2024-05-09T23:39:23.692Z
 startTime: 2021-02-25T10:34:30.000Z
 generator: Upptime <https://github.com/upptime/upptime>
