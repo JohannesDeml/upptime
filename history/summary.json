@@ -4,7 +4,7 @@
     "url": "https://deml.io",
     "icon": "https://icons.duckduckgo.com/ip3/deml.io.ico",
     "slug": "deml-io",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -65,9 +65,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1913,
-    "timeDay": 1762,
-    "timeWeek": 1969,
-    "timeMonth": 1939,
+    "timeDay": 1848,
+    "timeWeek": 1978,
+    "timeMonth": 1940,
     "timeYear": 1888,
     "dailyMinutesDown": {}
   }
