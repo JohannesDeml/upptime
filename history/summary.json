@@ -22,7 +22,7 @@
     "url": "$GAME_SERVER_IP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "game-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -67,7 +67,7 @@
     "time": 1933,
     "timeDay": 2532,
     "timeWeek": 2245,
-    "timeMonth": 1885,
+    "timeMonth": 1883,
     "timeYear": 1935,
     "dailyMinutesDown": {}
   }
