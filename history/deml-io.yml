@@ -1,7 +1,7 @@
 url: https://deml.io
-status: up
-code: 200
-responseTime: 935
-lastUpdated: 2026-01-01T00:45:06.550Z
+status: down
+code: 415
+responseTime: 650
+lastUpdated: 2026-01-01T08:58:37.419Z
 startTime: 2021-02-25T10:18:59.000Z
 generator: Upptime <https://github.com/upptime/upptime>
