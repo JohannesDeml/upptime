@@ -4,16 +4,16 @@
     "url": "https://deml.io",
     "icon": "https://icons.duckduckgo.com/ip3/deml.io.ico",
     "slug": "deml-io",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 763,
-    "timeDay": 726,
-    "timeWeek": 748,
-    "timeMonth": 711,
+    "timeDay": 721,
+    "timeWeek": 746,
+    "timeMonth": 710,
     "timeYear": 759,
     "dailyMinutesDown": {}
   },
@@ -40,7 +40,7 @@
     "url": "$CLIENT_01",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "client-01",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -68,7 +68,7 @@
     "timeDay": 1910,
     "timeWeek": 1924,
     "timeMonth": 1876,
-    "timeYear": 2076,
+    "timeYear": 2077,
     "dailyMinutesDown": {}
   }
 ]
