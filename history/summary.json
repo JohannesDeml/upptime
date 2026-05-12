@@ -13,7 +13,7 @@
     "time": 746,
     "timeDay": 917,
     "timeWeek": 651,
-    "timeMonth": 681,
+    "timeMonth": 679,
     "timeYear": 709,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 525,
     "timeDay": 667,
     "timeWeek": 480,
-    "timeMonth": 522,
+    "timeMonth": 521,
     "timeYear": 525,
     "dailyMinutesDown": {}
   },
@@ -66,8 +66,8 @@
     "uptimeYear": "100.00%",
     "time": 2007,
     "timeDay": 1865,
-    "timeWeek": 2097,
-    "timeMonth": 2011,
+    "timeWeek": 2091,
+    "timeMonth": 2009,
     "timeYear": 2013,
     "dailyMinutesDown": {}
   }
