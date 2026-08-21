@@ -13,7 +13,7 @@
     "time": 693,
     "timeDay": 959,
     "timeWeek": 752,
-    "timeMonth": 746,
+    "timeMonth": 750,
     "timeYear": 694,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 516,
     "timeDay": 592,
     "timeWeek": 529,
-    "timeMonth": 518,
+    "timeMonth": 522,
     "timeYear": 516,
     "dailyMinutesDown": {}
   },
@@ -58,17 +58,17 @@
     "url": "$CLIENT_02",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "client-02",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2045,
-    "timeDay": 2014,
-    "timeWeek": 2187,
-    "timeMonth": 2268,
-    "timeYear": 2032,
+    "timeDay": 2108,
+    "timeWeek": 2194,
+    "timeMonth": 2274,
+    "timeYear": 2033,
     "dailyMinutesDown": {}
   }
 ]
